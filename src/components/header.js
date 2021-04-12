@@ -19,5 +19,4 @@ function Header() {
     )
 }
 
-//<img src="./img/heroDiner.jpg" className="banner" alt="Dinner food image" />
 export default Header
