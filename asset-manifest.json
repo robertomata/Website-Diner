@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Website-Diner/static/css/main.a3c3ab25.chunk.css",
+    "main.js": "/Website-Diner/static/js/main.a5453e47.chunk.js",
+    "main.js.map": "/Website-Diner/static/js/main.a5453e47.chunk.js.map",
+    "runtime-main.js": "/Website-Diner/static/js/runtime-main.764741ab.js",
+    "runtime-main.js.map": "/Website-Diner/static/js/runtime-main.764741ab.js.map",
+    "static/js/2.5148a0fd.chunk.js": "/Website-Diner/static/js/2.5148a0fd.chunk.js",
+    "static/js/2.5148a0fd.chunk.js.map": "/Website-Diner/static/js/2.5148a0fd.chunk.js.map",
+    "static/js/3.f2cf8cbd.chunk.js": "/Website-Diner/static/js/3.f2cf8cbd.chunk.js",
+    "static/js/3.f2cf8cbd.chunk.js.map": "/Website-Diner/static/js/3.f2cf8cbd.chunk.js.map",
+    "index.html": "/Website-Diner/index.html",
+    "static/css/main.a3c3ab25.chunk.css.map": "/Website-Diner/static/css/main.a3c3ab25.chunk.css.map",
+    "static/js/2.5148a0fd.chunk.js.LICENSE.txt": "/Website-Diner/static/js/2.5148a0fd.chunk.js.LICENSE.txt",
+    "static/media/heroDiner.1bfac85c.jpg": "/Website-Diner/static/media/heroDiner.1bfac85c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.764741ab.js",
+    "static/js/2.5148a0fd.chunk.js",
+    "static/css/main.a3c3ab25.chunk.css",
+    "static/js/main.a5453e47.chunk.js"
+  ]
+}
