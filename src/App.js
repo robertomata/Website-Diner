@@ -3,7 +3,7 @@ import './App.css';
 import Product from "./components/product.js";
 import Header from "./components/header.js";
 import Footer from "./components/footer.js";
-import Pasta from "../src/pancake.jpg";
+import Pasta from "../src/bolognese.jpg";
 
 class App extends Component {
 
