@@ -4,17 +4,22 @@ import Product from "./components/product.js";
 import Header from "./components/header.js";
 import Footer from "./components/footer.js";
 import Pasta from "../src/bolognese.jpg";
+import Avocado from "../src/avocado.jpg";
+import Burger from "../src/burger.jpg";
+import Ribs from "../src/ribs.jpg";
+import Milk from "../src/milkshake.jpg";
+import Pancake from "../src/pancake.jpg";
 
 class App extends Component {
 
   state = {
     mealArray: [
       { imgId:"img", imagePath: Pasta, name : "Pasta" , price: 150, description :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
-      { imgId:"img", imagePath: "./img/avocado.jpg", name : "Avocado Sandwich", price: 50, description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-      { imgId:"img", imagePath: "./img/burger.jpg", name : "Cheese Burger", price: 80, description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-      { imgId:"img", imagePath: "./img/ribs.jpg", name : "Barbecue Ribs", price: 200,  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
-      { imgId:"img", imagePath: "./img/milkshake.jpg", name : "Milkshake", price: 40,  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
-      { imgId:"img", imagePath: "./img/pancake.jpg", name : "Pancakes", price: 30,  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."}
+      { imgId:"img", imagePath: Avocado, name : "Avocado Sandwich", price: 50, description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
+      { imgId:"img", imagePath: Burger, name : "Cheese Burger", price: 80, description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
+      { imgId:"img", imagePath: Ribs, name : "Barbecue Ribs", price: 200,  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+      { imgId:"img", imagePath: Milk, name : "Milkshake", price: 40,  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+      { imgId:"img", imagePath: Pancake, name : "Pancakes", price: 30,  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."}
     ],
   };
 

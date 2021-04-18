@@ -1,13 +1,13 @@
 import React from "react";
 import "../App.css"
-
+import Logo from "../logo.png";
 
 
 function Footer() { 
     return (
         <div className="footerWrapper">
             <div className="contentFooter">
-            <img src="./img/logo.png" className="logoFooter" alt="logo" />
+            <img src={Logo} className="logoFooter" alt="logo" />
             
             </div>
             <div className="contentFooter">
