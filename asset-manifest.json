@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Website-Diner/static/css/main.a3c3ab25.chunk.css",
-    "main.js": "/Website-Diner/static/js/main.a5453e47.chunk.js",
-    "main.js.map": "/Website-Diner/static/js/main.a5453e47.chunk.js.map",
+    "main.js": "/Website-Diner/static/js/main.18623455.chunk.js",
+    "main.js.map": "/Website-Diner/static/js/main.18623455.chunk.js.map",
     "runtime-main.js": "/Website-Diner/static/js/runtime-main.764741ab.js",
     "runtime-main.js.map": "/Website-Diner/static/js/runtime-main.764741ab.js.map",
     "static/js/2.5148a0fd.chunk.js": "/Website-Diner/static/js/2.5148a0fd.chunk.js",
@@ -12,12 +12,19 @@
     "index.html": "/Website-Diner/index.html",
     "static/css/main.a3c3ab25.chunk.css.map": "/Website-Diner/static/css/main.a3c3ab25.chunk.css.map",
     "static/js/2.5148a0fd.chunk.js.LICENSE.txt": "/Website-Diner/static/js/2.5148a0fd.chunk.js.LICENSE.txt",
-    "static/media/heroDiner.1bfac85c.jpg": "/Website-Diner/static/media/heroDiner.1bfac85c.jpg"
+    "static/media/avocado.f4418704.jpg": "/Website-Diner/static/media/avocado.f4418704.jpg",
+    "static/media/bolognese.e5579b9e.jpg": "/Website-Diner/static/media/bolognese.e5579b9e.jpg",
+    "static/media/burger.8367d641.jpg": "/Website-Diner/static/media/burger.8367d641.jpg",
+    "static/media/heroDiner.1bfac85c.jpg": "/Website-Diner/static/media/heroDiner.1bfac85c.jpg",
+    "static/media/logo.e1c2ede8.png": "/Website-Diner/static/media/logo.e1c2ede8.png",
+    "static/media/milkshake.415db957.jpg": "/Website-Diner/static/media/milkshake.415db957.jpg",
+    "static/media/pancake.16dc6c40.jpg": "/Website-Diner/static/media/pancake.16dc6c40.jpg",
+    "static/media/ribs.c9baaae2.jpg": "/Website-Diner/static/media/ribs.c9baaae2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.764741ab.js",
     "static/js/2.5148a0fd.chunk.js",
     "static/css/main.a3c3ab25.chunk.css",
-    "static/js/main.a5453e47.chunk.js"
+    "static/js/main.18623455.chunk.js"
   ]
 }
